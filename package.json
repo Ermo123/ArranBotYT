@@ -1,0 +1,17 @@
+{
+  "name": "arranbotyt",
+  "main": "index.js",
+  "author": "LuisitoTrecker&Ermo",
+  "version": "1.0.0",
+  "description": "ArranBot is a free Discord music bot that delivers high-quality music to your Discord server.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.3.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "mongoose": "^6.0.13"
+  }
+}
